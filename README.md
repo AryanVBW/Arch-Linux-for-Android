@@ -2,7 +2,8 @@
 # ArchAdventures 🏹🐧
 
 Take control of your Android system with Arch Adventures, bringing the flexibility and customization of Arch Linux to your mobile device! 🚀
-
+# installation
+simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
 ## 🌟 Key Features:
 
 - **Flexibility:** Customize your system to meet your exact specifications.
