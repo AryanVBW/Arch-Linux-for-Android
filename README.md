@@ -4,6 +4,9 @@
 Take control of your Android system with Arch Adventures, bringing the flexibility and customization of Arch Linux to your mobile device! 🚀
 # installation
 simply tap below or visit [LinuxnDroid](https://github.com/AryanVBW/LinuxDroid) and transform your Android device into a Linux powerhouse effortlessly! 🚀💻📱
+<p align="center">  
+   <a href="https://github.com/AryanVBW/LinuxDroid/tree/main#linuxdroid">
+<img src="https://github.com/AryanVBW/ParrotSecurityOsForAndroid/releases/download/Gif/visithere.gif" alt="Darkside"></a></p>
 ## 🌟 Key Features:
 
 - **Flexibility:** Customize your system to meet your exact specifications.
